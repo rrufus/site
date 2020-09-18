@@ -1,5 +1,4 @@
-baseURL = "http://www.rufusrussell.co.uk/"
-languageCode = "en-uk"
+languageCode = "en-gb"
 title = "Rufus Russell"
 theme = "anatole"
 
