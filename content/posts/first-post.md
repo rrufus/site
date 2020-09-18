@@ -35,4 +35,4 @@ Before neumind I have held the following positions:
 * January 2014 – July 2015: Graduate Developer, IBM MQ
   * Developer for the IBM MQ Appliance CLI.
   * Wrote a lot of code in `C` with a lot of help from excellent developers around me.
-  * Wrote [a publication](http://www.redbooks.ibm.com/redbooks/pdfs/sg248283.pdf) for clients.
+  * Co-wrote an [IBM redbook](http://www.redbooks.ibm.com/redbooks/pdfs/sg248283.pdf) on my work.
