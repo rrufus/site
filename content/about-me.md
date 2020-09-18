@@ -9,6 +9,7 @@ I have been a professional software engineer since 2014, but have been tinkering
 Recently I have been working at [neumind](https://www.neumind.co.uk) as the lead engineer, where we are trying to improve outcomes of remote therapy. Our first focus is on acquired brain injury. We want to build tools to help our customers live the most full life they possibly can, and help improve bandwidth in healthcare systems worldwide.
 
 Before neumind I have held the following positions:
+
 * May 2018 – March 2020: Senior developer at [Consensys](https://www.consensys.net), working on [komgo](https://komgo.io).
   * Worked with `Ethereum` technologies.
   * Co-ordinating and architecting development efforts with a large team.
