@@ -5,7 +5,7 @@ theme = "anatole"
 [params]
 author = "Rufus Russell"
 description = "Hello! I'm Rufus, lead engineer and co-founder at neumind."
-profilePicture = "images/headshot.png"
+profilePicture = "/images/headshot.png"
 enableRobotsTXT = true
 
 [[params.socialIcons]]
