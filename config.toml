@@ -1,0 +1,45 @@
+baseURL = "http://www.rufusrussell.co.uk/"
+languageCode = "en-uk"
+title = "Rufus Russell"
+theme = "anatole"
+
+[params]
+author = "Rufus Russell"
+description = "Hello! I'm Rufus, lead engineer and co-founder at neumind."
+profilePicture = "images/headshot.png"
+enableRobotsTXT = true
+
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/rufus-russell-30a6606b/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/rrufus"
+
+[[params.socialIcons]]
+icon = "fa-medium"
+title = "Medium"
+url = "https://medium.com/@rufusrussell"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+
+  [[menu.main]]
+  name = "About me"
+  weight = 300
+  identifier = "about-me"
+  url = "/about-me/"
