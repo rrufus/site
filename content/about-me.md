@@ -1,7 +1,7 @@
 ---
 title: "About me"
 date: 2020-09-18T11:56:46+01:00
-draft: true
+draft: false
 ---
 
 I have been a professional software engineer since 2014, but have been tinkering with computers since way before that. My interest in technology revolves around my desire to find ways to improve people's lives.
