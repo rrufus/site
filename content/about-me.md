@@ -14,23 +14,26 @@ Before neumind I have held the following positions:
 
 - May 2018 – March 2020: Senior developer at [Consensys](https://www.consensys.net), working on [komgo](https://komgo.io).
   - Worked with `Ethereum` technologies.
-  - Co-ordinating and architecting development efforts with a large team.
-  - Finding ways to write and reuse well-tested code in a fast paced environment.
+  - Co-ordinated and architecting development efforts with a large team.
+  - Found ways to write and reuse well-tested code in a fast paced environment.
   - Further experience in `React` and `node.js`.
-- January 2017 – April 2018: Senior/Lead Developer at the [IBM Cloud Garage](https://www.ibm.com/garage), on several client-facing projects.
+- January 2017 – April 2018: Senior/Lead Developer at the [IBM Cloud Garage](https://www.ibm.com/garage), on several innovative client-facing projects.
   - Pair programming daily, as a means of knowledge sharing, decision making, training, and onboarding client developers.
+  - Became familiar the Extreme Programming (XP) method.
+  - Worked on projects which used some recent innovation such as natural language processing, image recognition, or blockchain. 
   - Using test driven development (TDD) for development of all production code.
   - Learnt `React`.
-  - Became familiar the Extreme Programming (XP) method.
-  - Making key technical judgements during Design Thinking workshops.
+  - Made key technical judgements during Design Thinking workshops.
   - Became a technical lead.
 - August 2015 – December 2016: Developer in an SRE squad within IBM Cloud, specialism "Network Intelligence".
   - Learnt a lot about computer networking at the cloud scale.
   - Learnt and used `golang` daily, possibly my favourite language.
   - Was on call for IBM Cloud networking.
-  - First introduction to TDD.
-  - First introduction to Pair Programming.
-  - First introduction to ChatOps, though we didn't call it that then.
+  - Introduced to TDD.
+  - Introduced to Pair Programming.
+  - Introduced to ChatOps, though we didn't call it that then.
+  - Introduced to docker.
+  - Introduced to various cloud monitoring tools and patterns.
   - Worked with and learnt from several excellent developers.
 - January 2014 – July 2015: Graduate Developer, IBM MQ
   - Developer for the IBM MQ Appliance.
