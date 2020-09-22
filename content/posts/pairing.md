@@ -1,7 +1,7 @@
 ---
 title: "To pair or not to pair?"
 date: 2018-04-06T14:37:57+01:00
-draft: true
+draft: false
 ---
 
 > Note to the reader: This was written in April 2018.
