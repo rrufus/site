@@ -8,6 +8,8 @@ I have been a professional software engineer since 2014, but have been tinkering
 
 Recently I have been working at [neumind](https://www.neumind.co.uk) as the lead engineer, where we are trying to improve outcomes of remote therapy. Our first focus is on acquired brain injury. We want to build tools to help our customers live the most full life they possibly can, and help improve bandwidth in healthcare systems worldwide.
 
+I've worked full time at neumind since April 2020.
+
 Before neumind I have held the following positions:
 
 - May 2018 – March 2020: Senior developer at [Consensys](https://www.consensys.net), working on [komgo](https://komgo.io).
@@ -15,7 +17,7 @@ Before neumind I have held the following positions:
   - Co-ordinating and architecting development efforts with a large team.
   - Finding ways to write and reuse well-tested code in a fast paced environment.
   - Further experience in `React` and `node.js`.
-- January 2017 – April 2020: Senior/Lead Developer at the [IBM Cloud Garage](https://www.ibm.com/garage), on several client-facing projects.
+- January 2017 – April 2018: Senior/Lead Developer at the [IBM Cloud Garage](https://www.ibm.com/garage), on several client-facing projects.
   - Pair programming daily, as a means of knowledge sharing, decision making, training, and onboarding client developers.
   - Using test driven development (TDD) for development of all production code.
   - Learnt `React`.
