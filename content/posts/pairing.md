@@ -10,6 +10,8 @@ I have pair programmed on a daily basis for over two and a half years now, a yea
 
 In this blog I would like to discuss some of the successes and failures of pair programming as part of an approach to software development, and the insights the approach has left me with.
 
+***
+
 ### Common Arguments Against Pairing
 
 To the uninitiated, pairing may seem a daunting prospect. I’ll go through some common lines of resistance:
@@ -60,6 +62,8 @@ Plus when working solo, you are going to be more susceptible to scope creep than
 
 Everyone has a slightly different coding style. Because everyone thinks in a slightly different way. But through pairing, the style of the code is actually made more consistent, as the niggles you may have about your fellow developers are ironed out through discussions, which would hopefully aid both of your understandings.
 
+***
+
 ### Project Management and Pairing
 
 From a project management perspective, pairing can help out or simplify in many ways.
@@ -71,6 +75,8 @@ From a project management perspective, pairing can help out or simplify in many 
 * Code reviews? Well, pairing is a constant code review. Less important.
 * Silos of information, which may be lost when a team member moves on? 
 Well, pairing can help you mitigate this, because if you are pairing consistently, you have more eyeballs on the code, and the code lives on in the memories of more of your developers.
+
+***
 
 ### Pairing and Personal Development
 
@@ -84,6 +90,8 @@ From a personal perspective, pairing could help you to:
 
 In a good pair, the reassurance of having someone to “catch” you when you are going wrong could even help you to think more creatively.
 
+***
+
 ### When not to Pair
 
 In some offices, pairing can become a practice to follow at all costs, to the extent where it is not useful or productive.
@@ -96,6 +104,8 @@ Here, in my opinion, are some of the cases where pairing could be harmful:
 * Jenkins/Travis/other similar DevOps tasks. These are typically dull to pair on, as they aren’t very technically challenging, and typically have long turnaround times between attempts to get it right.
 * Creation of supporting materials for your project (diagrams, schematics).
 
+***
+
 ### Valid Criticisms of Pairing
 
 If you are, for whatever reason, demotivated, that can demotivate your partner. A demotivated pair is at least twice as bad as demotivated soloist. Which moves me into taking breaks.
@@ -107,6 +117,8 @@ However, if you’re remote, these subtleties become a lot harder. You can’t e
 That being said, there are some excellent remote desktop applications which can really help to bring remote pairing to life. If you’re on Slack, try out [Screenhero](https://screenhero.com/), or if not, try [zoom.us](https://zoom.us/). Or, if you both use visual studio code, [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare).
 
 But if you’re not careful, the “perfect storm” of all of the points above can create an awful pairing experience. A bit of confidence and a can do attitude will go a long way to negate these problems.
+
+***
 
 ## Conclusions
 
