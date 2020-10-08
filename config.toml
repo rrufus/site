@@ -11,7 +11,7 @@ enableRobotsTXT = true
 [[params.socialIcons]]
 icon = "fa-linkedin"
 title = "Linkedin"
-url = "https://www.linkedin.com/in/rufus-russell-30a6606b/"
+url = "https://www.linkedin.com/in/rufus-russell"
 
 [[params.socialIcons]]
 icon = "fa-github"
